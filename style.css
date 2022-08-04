@@ -306,7 +306,7 @@ html {
 .social {
   display: flex;
   justify-content: center;
-
+  flex-direction: row;
 }
 
 footer a {
